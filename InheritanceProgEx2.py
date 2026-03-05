@@ -1,6 +1,7 @@
 #Program for demonstrating the need of inheritance
 #InheritanceProgEx2.py
 #Multiple inheritance
+#Applied methods
 class C1:
     def disp1(self):
         print("C1---disp1()")
